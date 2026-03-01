@@ -50,8 +50,8 @@ git commit -m "first commit"
 git push
 ```
 
+  
 ```
-
 git push -u origin <названия ветки> 
 Отправка новой ветки в удаленный репозиторий
 
