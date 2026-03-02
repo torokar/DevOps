@@ -220,6 +220,8 @@ upstream, see 'push.autoSetupRemote' in 'git help config'.
 
 6) git branch <name> <commit> - создает ветку на укащанном коммите или теге
 
+7) git push origin --delete <имя ветки> - удаляет ветку из репозитория гитхаб
+
 ---
 
 # Переключение между ветками
