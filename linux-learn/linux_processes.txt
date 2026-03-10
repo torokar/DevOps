@@ -9,7 +9,7 @@
 sudo ps -ef
 ```
 
-![https://habrastorage.org/r/w1560/getpro/habr/upload_files/232/ea8/5d1/232ea85d1e8bdffe07e9042991ec7381.png]()
+![](https://habrastorage.org/r/w1560/getpro/habr/upload_files/232/ea8/5d1/232ea85d1e8bdffe07e9042991ec7381.png)
 
 Если необходимо получить информацию по конкретному процессу, то можно воспользоваться командой
 
